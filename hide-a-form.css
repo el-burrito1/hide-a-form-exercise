@@ -1,0 +1,31 @@
+#profile-picture{
+	height:200px;
+	width:275px;
+	padding-top:20px;
+	padding-left:20px;
+	border-radius: 30px;
+}
+
+#personalinfo{
+	padding-left: 20px;
+	border-left: 2px solid #ADABAC;
+	margin-left: 20px;
+}
+
+#forminput{
+	display: inline-block;
+	padding-left:25px;
+}
+
+#revealbutton{
+	position: absolute;
+	margin-top: 75px;
+	margin-left:25px;
+}
+
+#submitbutton{
+	margin-top:10px;
+}
+
+/*///////////////////////////////////////////////////////*/
+
